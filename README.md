@@ -1,4 +1,4 @@
-<<!-- 🌟 My GitHub Profile README -->
+<!-- 🌟 My GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">A Passionate Web Developer & Future Software Engineer from Bangladesh 🇧🇩</h3>
@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🌱 I’m currently learning **Web Development & Ethical Hacking**
+- 🌱 I’m currently learning **Web Development**
 - 💻 I love to code using **HTML, CSS, JavaScript, Java, and Python**
 - 🎯 My goal: Become a great **Software Engineer**
 - 💬 Ask me about **Frontend, Firebase, Termux, Apps Development, Software Engineering, Blockchain or Quantum Computing**
