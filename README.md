@@ -25,16 +25,16 @@
 ### 🚀 My Projects
 | Project Name | Description | Live Demo |
 |---------------|--------------|------------|
-| 🌐 Future Me | Send letters to your future self | [View](https://github.com/yourusername/Future-Me) |
-| 🤖 FixMate AI | AI that fixes phone issues | [View](https://github.com/yourusername/FixMate-AI) |
-| 💡 My Info | Personal web info site | [View](https://github.com/yourusername/My-Info) |
+| 🌐 My portfolio | See my portfolio  | [View](https://glowing-duckanoo-edc4a1.netlify.app/) |
+| 🤖 E-commerce web site | My E-commerce web site copy by hablu Programmar | [View](https://rakib-sk.github.io/E-commerce-/) |
+| Simple game| Copy by apna College | [View](https://warm-cassata-8e1133.netlify.app/) |
 
 ---
 
 ### 📞 Contact Me
 <p align="center">
   <a href="mailto:rh01828325879@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/rakib_sk_0"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.facebook.com/yourfacebookid"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
