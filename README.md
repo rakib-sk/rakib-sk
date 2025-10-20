@@ -57,13 +57,6 @@
 </p>
 
 ---
-
-⭐️ *From [Rakib](https://github.com/rakib-sk-0)*-- My GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">A Passionate Web Developer & Future Software Engineer from Bangladesh 🇧🇩</h3>
-
----
 <!--
 **rakib-sk/rakib-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
