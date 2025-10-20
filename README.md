@@ -1,4 +1,5 @@
-<!-- 🌟 My GitHub Profile README -->
+
+<<!-- 🌟 My GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">A Passionate Web Developer & Future Software Engineer from Bangladesh 🇧🇩</h3>
@@ -6,10 +7,11 @@
 ---
 
 ### 🧠 About Me
-- 🌱 I’m currently learning **Web Development**
-- 💻 I love to code using **HTML, CSS, JavaScript, Java, and Python**
+- 🎓 I’m currently studying **Computer Science (1st Semester)** at **Jessore Polytechnic Institute**
+- 🌱 I’m currently learning **Web Development** and **Data Structures & Algorithms (DSA) using Java**
+- 💻 I love to code using **HTML, CSS, Java, Python, and JavaScript**
 - 🎯 My goal: Become a great **Software Engineer**
-- 💬 Ask me about **Frontend, Firebase, Termux, Apps Development, Software Engineering, Blockchain or Quantum Computing**
+- 💬 Ask me about **Frontend, Termux, Apps Development, Software Engineering, Blockchain, or Quantum Computing**
 - ⚡ Fun fact: **Coding removes my stress**
 
 ---
@@ -17,7 +19,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,linux,bootstrap,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,linux,bootstrap" />
 </p>
 
 ---
@@ -25,39 +27,19 @@
 ### 🚀 My Projects
 
 | Project Name | Description | Live Demo |
-|---------------|--------------|------------|
-| 💼 My Portfolio | My personal portfolio website | [View](https://glowing-duckanoo-edc4a1.netlify.app/) |
-| 🛍️ E-commerce | Copied & customized from Hablu Programmer | [View](https://github.com/rakib-sk-0/e-commerce-project) |
-| 🎮 Rock, Paper, Scissors | Mini game (Apna College project) | [View](https://warm-cassata-8e1133.netlify.app/) |
+|---------------|-------------|------------|
+| Future Me | Write letters to your future self that are delivered later via email | [Live Link Soon] |
+| My Info | A personal info website built using HTML, CSS, and JavaScript | [Live Link Soon] |
+| FixMate AI | A Termux-based AI that diagnoses and fixes mobile/computer problems | [Live Link Soon] |
 
 ---
 
-### 📞 Contact Me
+### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:rh01828325879@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/rakib_sk_0"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rakib.sk.0"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
----
-
-### 🧩 Profile Views Counter
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rakib-sk-0&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-### 🖼️ Logo / Banner
-
-<p align="center">
-  <img src="https://i.ibb.co/zVQ4x7M/Rakib-Logo.png" width="220px" alt="Rakib Logo" />
-</p>
-
----
-<!--
+  <a href="mailto:rh01828325879@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/rh01828325879"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+</p>!--
 **rakib-sk/rakib-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
