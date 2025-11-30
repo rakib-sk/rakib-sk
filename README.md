@@ -39,7 +39,7 @@
 | Project | Description | Live Demo |
 |---------|-------------|------------|
 | 🌐 **Portfolio** <img src="https://img.icons8.com/ios-filled/20/000000/internet.png"/> | My personal portfolio website showcasing my skills and works | [Visit Site](https://glowing-duckanoo-edc4a1.netlify.app/) |
-| 📝 **Attendance System** <img src="https://img.icons8.com/ios-filled/20/000000/todo-list.png"/> | A simple web-based attendance management system built with Flask | [View Project](https://github.com/rh01828325879/Attendance-System) |
+| 📝 **Attendance System** <img src="https://img.icons8.com/ios-filled/20/000000/todo-list.png"/> | A simple web-based attendance management system built with Flask | [View Project](https://smartattendencesystemrakib.netlify.app) |
 | 🛒 **E-Commerce Site** <img src="https://img.icons8.com/ios-filled/20/000000/shopping-cart.png"/> | A responsive online shopping website | [View Project](https://rakib-sk.github.io/E-commerce-/) |
 
 ---
