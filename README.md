@@ -1,14 +1,14 @@
 <!-- 🌟 My GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">A Passionate Web Developer & Future Software Engineer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A Passionate Web Developer & Future Software Engineer from Bangladehsh 🇧🇩</h3>
 
 ---
 
 ### 🧠 About Me
 - 🎓 I’m currently studying **Computer Science (1st Semester)** at **Jessore Polytechnic Institute**
-- 🌱 I’m currently learning **Web Development** and **Data Structures & Algorithms (DSA) using Java**
-- 💻 I love to code using **HTML, CSS, Java, Python, and JavaScript**
+- 🌱 I’m currently learning **Web Development**
+-- 💻 I love to code using **HTML, CSS, Java, Python, and JavaScript**
 - 🎯 My goal: Become a great **Software Engineer**
 - 💬 Ask me about **Frontend, Termux, Apps Development, Software Engineering, Blockchain, or Quantum Computing**
 - ⚡ Fun fact: **Coding removes my stress**
