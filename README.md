@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Profile Photo (Rounded) -->
-  <img src="https://your-image-link-here.jpg" width="160" style="border-radius:50%;" />
+  <img src="https://IMG_20251028_200602.jpg" width="160" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">I am Rakib</h1>
