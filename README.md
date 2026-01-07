@@ -90,7 +90,7 @@
 
 <p align="center">
   <!-- Company Logo -->
-  <img src="https://your-company-logo-link-here.png" width="120" />
+  <img src="img/rt6.png" width="120" />
 </p>
 
 <h3 align="center">RooTcore6</h3>
