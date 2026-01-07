@@ -48,10 +48,6 @@
 <h2>GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-sk&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rakib-sk&hide_border=true" />
 </p>
 
