@@ -45,22 +45,19 @@
 <hr/>
 
 <!-- ================== GITHUB STATS ================== -->
-
 <h2>GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rh01828325879&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-sk&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rh01828325879&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakib-sk&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rh01828325879&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-sk&theme=transparent" />
 </p>
-
-<hr/>
 
 <!-- ================== PROJECTS ================== -->
 
