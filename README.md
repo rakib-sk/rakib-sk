@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Profile Photo (Rounded) -->
-  <img src="img/me.jpg" width="160" style="border-radius:50%;" />
+  <img src="img/me.png" width="160" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">I am Rakib</h1>
