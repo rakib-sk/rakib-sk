@@ -1,52 +1,134 @@
-<!-- 🌟 My GitHub Profile README -->
+<!-- ================== PROFILE HEADER ================== -->
 
-<h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">A Passionate Web Developer & Future Software Engineer from Bangladesh 🇧🇩</h3>
-
----
-
-### 🧠 About Me
-- 🎓 I’m currently studying **Computer Science (1st Semester)** at **Jessore Polytechnic Institute**
-- 🌱 I’m currently learning **Web Development**
-- 💻 I love to code using **HTML, CSS, Java, Python, and JavaScript**
-- 🎯 My goal: Become a great **Software Engineer**
-- 💬 Ask me about **Frontend, Termux, Apps Development, Software Engineering, Blockchain, or Quantum Computing**
-- ⚡ Fun fact: **Coding removes my stress**
-
----
-
-### 🛠️ Skills & Tools
-
-**Programming Languages:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+  <!-- Profile Photo (Rounded) -->
+  <img src="https://your-image-link-here.jpg" width="160" style="border-radius:50%;" />
 </p>
 
-**Frameworks & Libraries:**  
+<h1 align="center">I am Rakib</h1>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,flask" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+Student;Future+Software+Engineer"
+    alt="Typing Animation"
+  />
 </p>
 
-**Operating Systems:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,linux,windows,termux" />
+  Passionate Web Developer and Future Software Engineer from Bangladesh
 </p>
 
----
+<hr/>
 
-### 🚀 My Projects
+<!-- ================== ABOUT ================== -->
 
-| Project | Description | Live Demo |
-|---------|-------------|------------|
-| 🌐 **Portfolio** <img src="https://img.icons8.com/ios-filled/20/000000/internet.png"/> | My personal portfolio website showcasing my skills and works | [Visit Site](https://glowing-duckanoo-edc4a1.netlify.app/) |
-| 📝 **Attendance System** <img src="https://img.icons8.com/ios-filled/20/000000/todo-list.png"/> | A simple web-based attendance management system built with Flask | [View Project](https://smartattendencesystemrakib.netlify.app) |
-| 🛒 **E-Commerce Site** <img src="https://img.icons8.com/ios-filled/20/000000/shopping-cart.png"/> | A responsive online shopping website | [View Project](https://rakib-sk.github.io/E-commerce-/) |
+<h2>About Me</h2>
 
----
+<ul>
+  <li>Studying Computer Science (1st Semester) at Jessore Polytechnic Institute</li>
+  <li>Currently learning Web Development and Software Engineering fundamentals</li>
+  <li>Comfortable with HTML, CSS, JavaScript, Python, Java, and C</li>
+  <li>Interested in scalable systems, backend logic, and problem solving</li>
+  <li>Coding helps me stay focused and mentally balanced</li>
+</ul>
 
-### 📫 Connect with Me
+<hr/>
+
+<!-- ================== SKILLS ================== -->
+
+<h2>Skills & Tools</h2>
 
 <p align="center">
-  <a href="mailto:rh01828325879@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/rh01828325879"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,bootstrap,flask,linux,android,windows" />
+</p>
+
+<hr/>
+
+<!-- ================== GITHUB STATS ================== -->
+
+<h2>GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rh01828325879&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rh01828325879&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rh01828325879&theme=transparent" />
+</p>
+
+<hr/>
+
+<!-- ================== PROJECTS ================== -->
+
+<h2>Projects</h2>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Portfolio Website</td>
+    <td>Personal portfolio showcasing skills and projects</td>
+    <td><a href="https://glowing-duckanoo-edc4a1.netlify.app/">View</a></td>
+  </tr>
+  <tr>
+    <td>Attendance System</td>
+    <td>Simple web-based attendance system built using Flask</td>
+    <td><a href="https://smartattendencesystemrakib.netlify.app">View</a></td>
+  </tr>
+  <tr>
+    <td>E-Commerce Website</td>
+    <td>Responsive front-end e-commerce website</td>
+    <td><a href="https://rakib-sk.github.io/E-commerce-/">View</a></td>
+  </tr>
+</table>
+
+<hr/>
+
+<!-- ================== COMPANY ================== -->
+
+<h2>Startup & Team</h2>
+
+<p align="center">
+  <!-- Company Logo -->
+  <img src="https://your-company-logo-link-here.png" width="120" />
+</p>
+
+<h3 align="center">RooTcore6</h3>
+
+<p align="center">
+  An online-based student startup
+</p>
+
+<p>
+RooTcore6 is a small online-based software startup founded by six students.
+We are currently in the learning and building phase, focusing on improving our
+technical skills, teamwork, and real-world problem solving.
+</p>
+
+<p>
+At this stage, we have not sold any websites or services yet.
+Our goal is to grow step by step by learning modern technologies,
+building practice projects, and preparing ourselves for professional software development.
+</p>
+
+<p>
+RooTcore6 is driven by curiosity, consistency, and a strong desire to improve.
+</p>
+
+<hr/>
+
+<!-- ================== CONTACT ================== -->
+
+<h2>Contact</h2>
+
+<p align="center">
+  <a href="mailto:rh01828325879@gmail.com">Email</a> |
+  <a href="https://github.com/rh01828325879">GitHub</a>
 </p>
