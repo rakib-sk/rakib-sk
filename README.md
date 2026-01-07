@@ -145,10 +145,10 @@ RooTcore6 is driven by curiosity, consistency, and a strong desire to improve.
 <h2>Contact</h2>  
 
 <p align="center">
-  <a href="mailto:rh01828325879@gmail.com">
+  <a href="mailto:rh01828315879@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.facebook.com/rakib.sk">
+  <a href="https://www.facebook.com/share/17zVzNnUim/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://wa.me/01828315879">
