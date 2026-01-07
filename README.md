@@ -89,9 +89,9 @@
     <td><a href="https://smartattendencesystemrakib.netlify.app">View</a></td>  
   </tr>  
   <tr>  
-    <td>E-Commerce Website</td>  
-    <td>Responsive front-end e-commerce website</td>  
-    <td><a href="https://rakib-sk.github.io/E-commerce-/">View</a></td>  
+    <td>Cricket Match control System </td>
+    <td>Responsive cricket match control system  website</td>
+    <td><a href="https://cricketematchcontrol.netlify.app/">View</a></td>  
   </tr>  
 </table>  
   
