@@ -134,7 +134,7 @@ RooTcore6 is driven by curiosity, consistency, and a strong desire to improve.
   <li>Sanjida Aktar</li>
   <li>M Fahim Siam</li>
   <li>Mir Mohamad Zahid</li>
-  <li>Lamiya Akter Nourin</li>
+  <li>Lamia Aktar Norin</li>
   <li>Md Abdur Rohoman</li>
 </ul>
   
