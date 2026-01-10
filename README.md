@@ -81,7 +81,7 @@
   <tr>  
     <td>Portfolio Website</td>  
     <td>Personal portfolio showcasing skills and projects</td>  
-    <td><a href="https://glowing-duckanoo-edc4a1.netlify.app/">View</a></td>  
+    <td><a href="https://rakibhossendev.netlify.app/">View</a></td>  
   </tr>  
   <tr>  
     <td>Attendance System</td>  
