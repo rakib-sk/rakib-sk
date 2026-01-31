@@ -93,6 +93,12 @@
     <td>Responsive cricket match control system  website</td>
     <td><a href="https://cricketematchcontrol.netlify.app/">View</a></td>  
   </tr>  
+  
+    <tr>  
+    <td>AlfiC E-commerce</td>
+    <td>This is responsive and fullstack e-commerce web site for Cake business </td>
+    <td><a href="alfic.onrender.com">View</a></td>  
+  </tr>  
 </table>  
   
 <hr/>  
@@ -122,36 +128,3 @@ technical skills, teamwork, and real-world problem solving.
 At this stage, we have not sold any websites or services yet.  
 Our goal is to grow step by step by learning modern technologies,  
 building practice projects, and preparing ourselves for professional software development.  
-</p>  
-  
-<p>  
-RooTcore6 is driven by curiosity, consistency, and a strong desire to improve.  
-</p>
-
-<h4>Team Members</h4>
-<ul>
-  <li>Rakib Hossen</li>
-  <li>Sanjida Aktar</li>
-  <li>M Fahim Siam</li>
-  <li>Mir Mohamad Zahid</li>
-  <li>Lamia Aktar Norin</li>
-  <li>Md Abdur Rohoman</li>
-</ul>
-  
-<hr/>  
-  
-<!-- ================== CONTACT ================== -->  
-  
-<h2>Contact</h2>  
-
-<p align="center">
-  <a href="mailto:rh01828315879@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/share/17zVzNnUim/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/01828315879">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
