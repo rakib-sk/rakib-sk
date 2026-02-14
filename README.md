@@ -44,7 +44,7 @@
 
 <h3>Frameworks & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,flask" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,flask,git,github" />
 </p>
 
 <h3>Operating Systems</h3>
