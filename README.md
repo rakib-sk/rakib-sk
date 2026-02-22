@@ -7,9 +7,9 @@
 <h1 align="center">I am Rakib</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+Student;Future+Software+Engineer"
-    alt="Typing Animation"
+  <img   
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+Student;Future+Software+Engineer"  
+    alt="Typing Animation"  
   />
 </p>
 
@@ -54,16 +54,21 @@
 
 <hr/>
 
-<!-- ================== GITHUB STATS ================== -->
+<!-- ================== GITHUB STATISTICS ================== -->
 
-<h2>GitHub Activity</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakib-sk&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-sk&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-sk&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-sk" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-sk&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakib-sk&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <hr/>
@@ -101,6 +106,12 @@
     <td>AlfiC E-commerce</td>
     <td>Responsive full-stack e-commerce web application for a cake business</td>
     <td><a href="https://alfic.onrender.com" target="_blank">View</a></td>
+  </tr>
+
+  <tr>
+    <td>Blog Posting Platform</td>
+    <td>A simple blog posting platform where users can publish and read articles online</td>
+    <td><a href="https://rootcore6.onrender.com" target="_blank">View</a></td>
   </tr>
 </table>
 
