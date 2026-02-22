@@ -54,17 +54,25 @@
 
 <hr/>
 
-<!-- ================== GITHUB STATISTICS ================== -->
+<!-- ================== GITHUB CONTRIBUTION & STATISTICS ================== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Contributions & Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-sk&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-sk&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-sk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-sk&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-sk&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-sk&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-sk&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-sk&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
