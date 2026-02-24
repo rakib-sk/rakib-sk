@@ -56,27 +56,27 @@
 
 <!-- ================== GITHUB CONTRIBUTION & STATISTICS ================== -->
 
-<h2 align="center">📊 GitHub Contributions & Statistics</h2>
+<h2 align="center">GitHub Contributions & Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-sk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibhossendev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-sk&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-sk&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossendev&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-sk&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibhossendev&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-sk&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhossendev&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakib-sk&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rakibhossendev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <hr/>
